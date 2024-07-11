@@ -1,0 +1,16 @@
+	yash : 123456 : Newyoek
+
+	trusha : 234567 : london
+
+	jay : 345678 : moscow
+
+	james : 666007 : beijing
+
+	tom : 0001001 : california
+
+	yoyo : 31873 : asgvd
+
+	james1111 : 8695036212 : new york
+
+	clark1111 : 7283926371 : metropolis
+
